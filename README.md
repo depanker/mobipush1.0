@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+mobipush
 =========================
 
-A minimal seed template for an Akka with Scala build 
+This is a crawling app using akka
