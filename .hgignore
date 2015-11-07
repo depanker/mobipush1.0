@@ -28,7 +28,7 @@ Temporary Items
 .apdisk
 ### PlayFramework template
 # Ignore Play! working directory #
-/log/
+*.log
 bin/
 /db
 .eclipse
